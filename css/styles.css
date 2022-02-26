@@ -7,6 +7,11 @@
   -o-background-size: cover;
   background-size: cover; */
 }
+#myname {
+  font-weight: 800;
+  font-size: 80pt;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 .nav-custom {
   color: black !important;
@@ -44,11 +49,10 @@
   color: black;
 }
 
-.me-content {
-  color: black;
+.column-me{
   text-align: center;
   width: 300px;
-  border: 5px solid gray;
+  border: 0px solid gray;
   padding: 10px;
   margin: 0px;
 }
@@ -62,3 +66,23 @@
 card-text:hover {
   width: 50px;
 } */
+
+.column-me {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column-me {
+    width: 100%;
+  }
+}
