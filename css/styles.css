@@ -1,4 +1,37 @@
 .main {
   background-color: black;
   color: white;
+  /* background-image: url("../images/background.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+}
+
+.nav-custom {
+  color: white !important;
+}
+
+.custom-row {
+  display: flex;
+  height: 100vh;
+}
+
+.custom-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+#custom-col1{
+  background-color: grey;
+}
+
+.work-img {
+  height: 100%;
+  width: 100%;
+  /* opacity: 0.2; */
+  background-color: grey;
 }
