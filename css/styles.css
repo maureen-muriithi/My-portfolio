@@ -93,3 +93,13 @@ card-text:hover {
     width: 100%;
   }
 }
+
+.contact-info {
+  color: white;
+}
+ #contact {
+  width: 100%;
+  border: 1px solid #303030;
+  padding: 25px;
+  margin: 0px;
+ }
