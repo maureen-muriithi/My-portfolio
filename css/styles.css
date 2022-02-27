@@ -1,17 +1,17 @@
+* {
+  box-sizing: border-box !important;
+}
+
 .main {
   background-color: #303030;
   color: whitesmoke;
-  /* background-image: url("../images/background1.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; */
 }
 
 #myname {
   font-weight: 800;
   font-size: 75pt;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: lightgray;
 }
 
 .nav-custom {
@@ -44,7 +44,6 @@
   width: 100%;
   opacity: 0.5;
   border: 0px;
-  /* background-color: grey; */
 }
 
 .card-img-top {
@@ -63,16 +62,6 @@
   padding: 10px;
   margin: 0px;
 }
-/* .card-text{
-  width: 400px;
-  height: 200px;
-  background: red;
-  transition: width 0.5s;
-}
-
-card-text:hover {
-  width: 50px;
-} */
 
 .column-me {
   float: left;
@@ -80,7 +69,6 @@ card-text:hover {
   padding: 15px;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
@@ -97,7 +85,7 @@ card-text:hover {
 .contact-info {
   color: white;
 }
- #contact {
+#contact {
   width: 100%;
   border: 1px solid #303030;
   padding: 25px;
