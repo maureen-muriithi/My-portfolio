@@ -76,7 +76,8 @@ Created by [@maureen-muriithi] (https://github.com/maureen-muriithi) - feel free
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License, Copyright (c) 2022 Maureen Muriithi.
+
 
 ## View Website on gh-pages
 - https://maureen-muriithi.github.io/My-portfolio/
