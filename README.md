@@ -76,7 +76,7 @@ Created by [@maureen-muriithi] (https://github.com/maureen-muriithi) - feel free
 
 ## License
 
-This project is open source and available under the [...s License]().
+This project is open source and available under the MIT License.
 
-## View Website
+## View Website on gh-pages
 - https://maureen-muriithi.github.io/My-portfolio/
