@@ -1,6 +1,6 @@
 # My-portfolio
 
-\*This is a website of my porfolio.
+This is a website of my porfolio.
 
 # Project Contributor
 
@@ -20,7 +20,8 @@
 
 - The project is a website of my portfolio. This particularly as attached today (26/02/2022) is precisely the landing page.
 - The portolio entails my personal information, what I have achieved and what I intend to achieve.
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- It further entails my contact information and links to my social pages.
+- My projects are also part of the portfolio
 
 ## Technologies Used
 
@@ -76,5 +77,3 @@ Created by [@maureen-muriithi] (https://github.com/maureen-muriithi) - feel free
 ## License
 
 This project is open source and available under the [...s License]().
-
-<!-- You don't have to include all sections - just the one's relevant to your project
