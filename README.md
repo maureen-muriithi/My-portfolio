@@ -68,7 +68,7 @@ This requirements and objectives also available at https://moringaschool.instruc
 
 ## Project Status
 
-Project is: \_in progress. More on the portfolio website is yet to be updated.
+Project is: \_in progress. More on the portfolio website is yet to be updated. 
 
 ## Contact
 
@@ -77,3 +77,6 @@ Created by [@maureen-muriithi] (https://github.com/maureen-muriithi) - feel free
 ## License
 
 This project is open source and available under the [...s License]().
+
+## View Website
+- https://maureen-muriithi.github.io/My-portfolio/
